@@ -1,0 +1,24 @@
+Mustafa: Hallo! Wie kann ich Ihnen helfen?
+Bekir: Ich möchte gerne ein halber Liter Wasser und eine Schokolade kaufen.
+Mustafa: Möchten Sie noch etwas?
+Bekir: Wie viel kosten die Fruchtsäfte?
+Mustafa: Die Fruchtsäfte kosten 2 Euro.
+Bekir: Danke, ich möchte keine.
+Mustafa: Die Nudeln sind im Angebot. Sie kosten nur 80 Cent.
+Bekir: Großartig, ich nehme sie. Wie hoch ist der Gesamtbetrag?
+Mustafa: Der Gesamtbetrag beträgt 4 Euro 50 Cent.
+Bekir: In Ordnung.
+Mustafa: Vielen Dank. Auf Wiedersehen!
+
+
+Mustafa: Merhaba! Size nasıl yardımcı olabilirim?
+Bekir: Bir yarım litre su ve bir çikolata satın almak istiyorum.
+Mustafa: Başka bir şey ister misiniz?
+Bekir: Meyve Suları ne kadar?
+Mustafa: Meyve Suları 2 euro.
+Bekir: Teşekkür ederim, istemiyorum.
+Mustafa: Makarnalar kampanyada. Sadece 80 cent.
+Bekir: Harika, onları alayım. Toplam ne kadar tutuyor?
+Mustafa: Toplam tutar 4 Euro 50 Cent.
+Bekir: Tamam.
+Mustafa: Çok teşekkür ederim. Hoşça kalın!
